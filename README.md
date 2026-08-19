@@ -84,4 +84,4 @@ jupyter notebook pokemon_analysis.ipynb
 
 ## 👤 Autor
 
-*Tu nombre aquí* — [LinkedIn](#) · [Portafolio](#)
+*Brian Ornelas* — https://www.linkedin.com/in/brian-isai-ornelas-cabrera-005a062b4/
